@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Mosaab</h1>
 
-<h3 align="left">full-stack web developer using vue.js And Django</h3>
-<h3 align="left">content creator in social media (carousel posts) in arabic</h3>
+<h3 align="left">. full-stack web developer using vue.js And Django</h3>
+<h3 align="left">. content creator in social media (carousel posts) in arabic</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
