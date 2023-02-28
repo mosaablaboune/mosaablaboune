@@ -1,18 +1,16 @@
 # Hi, I'm Mosaab Laboune
 ### Frontend Developer
 
-⤷ Making content on social media
-⤷ I'm open to collaborating on Everything useful
-
----
-
 ⚐ Based in Algeria
 
 ϟ Currently learning Rust
 
 ϟ Recently Building my Portfolio
 
----
+⤷ Making content on social media
+
+⤷ I'm open to collaborating on Everything useful
+
 
 ## Skills
 
@@ -22,7 +20,6 @@
 <a href="https://webflow.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/nocode/webflow.svg" alt="Webflow" width="25" height="25" /></a>
 <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/photoshop.svg" alt="Photoshop" width="25" height="25" /></a>
 
----
 
 ## Socials
 
