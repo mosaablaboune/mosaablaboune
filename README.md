@@ -1,18 +1,18 @@
-# Mosaab Laboune
-### Hi, I'm frontend developer
+# Hi, I'm Mosaab Laboune
+### Frontend Developer
 
-⤷ making content on social media & i love to contribute on open source projects
+⤷ Making content on social media
+⤷ I'm open to collaborating on Everything useful
 
-
-<a aligh="left" href="mailto:mosaabdev19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/channel/UCaswz01bWwl1ScEkUGemdTw" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/Mosaab Laboune#1975" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>
-
+---
 
 ⚐ Based in Algeria
 
 ϟ Currently learning Rust
 
-ϟ Recently mastering react
+ϟ Recently Building my Portfolio
 
+---
 
 ## Skills
 
@@ -21,3 +21,9 @@
 <a href="https://supabase.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/supabase.svg" alt="Supabase" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
 <a href="https://webflow.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/nocode/webflow.svg" alt="Webflow" width="25" height="25" /></a>
 <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/photoshop.svg" alt="Photoshop" width="25" height="25" /></a>
+
+---
+
+## Socials
+
+<a aligh="left" href="mailto:mosaabdev19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/channel/UCaswz01bWwl1ScEkUGemdTw" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/Mosaab Laboune#1975" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/mosaabdev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>
