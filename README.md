@@ -3,10 +3,6 @@
 
 ⚐ Based in Algeria
 
-ϟ Currently learning Rust
-
-ϟ Recently Building my Portfolio
-
 ⤷ Making content on social media
 
 ⤷ I'm open to collaborating on Everything useful
